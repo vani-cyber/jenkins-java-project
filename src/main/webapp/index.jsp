@@ -18,7 +18,7 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>email</label>
+          <label>email id</label>
         </div>
         <div class="form-control">
           <input type="password" required />
